@@ -1,5 +1,5 @@
 # n64AtlasBuffer
 
-![alt text](https://i.imgur.com/gnyPF8G.png)
-![alt text](https://imgur.com/28xsMbJ)
-![alt text](https://imgur.com/tP3DZak)
+![intro](https://i.imgur.com/gnyPF8G.png)
+![how it works](https://i.imgur.com/28xsMbJ.png)
+![example](https://i.imgur.com/tP3DZak.jpg)
